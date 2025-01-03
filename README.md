@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
     
-<p><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" /></p>
+<p><img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Coding GIF" /></p>
 </div>
 
 <div align="center">
