@@ -1,0 +1,26 @@
+name: Generate Snake Animation
+
+on:
+  push:
+    branches:
+      - output  # Automatically update when output branch changes
+  workflow_dispatch:  # Allow manual runs of the workflow
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: Golam-Rabby821
+          outputs: dist/snake.svg
+
+      - name: Push Generated SVG
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
