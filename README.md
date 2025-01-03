@@ -51,15 +51,15 @@ Beyond coding, I have experience in team leadership and technical event coordina
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white" alt="Matlab" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF" alt="C++" />
+  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=FFB000" alt="Matlab" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=00599C" alt="C" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=239120" alt="C#" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS" />
 </div>
 
 <h2 align="center" class="section-heading">🔧 Frameworks</h2>
