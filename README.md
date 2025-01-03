@@ -86,7 +86,7 @@ Beyond coding, I have experience in team leadership and technical event coordina
  <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=golam-rabby821&theme=github_dark" alt="Golam Rabby's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=golam-rabby821&theme=merko" alt="Golam Rabby's Contribution Streak"/></td>
+       <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a></td>
     </tr>
  </table>
 
