@@ -87,12 +87,12 @@ Here are some ideas to get you started:
 <p>Peek into my GitHub stats to see my digital journey!</p>
  <table align="center" width="100%">
     <tr>
-        <td style="height: 200px; width: 50%; text-align: center; vertical-align: middle;">
+        <td style="height: 500px; width: 50%; text-align: center; vertical-align: middle;">
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=golam-rabby821&theme=github_dark" 
                  alt="GitHub Stats" 
                  style="height: 100%; width: 100%; object-fit: cover;" />
         </td>
-        <td style="height: 200px; width: 50%; text-align: center; vertical-align: middle;">
+        <td style="height: 500px; width: 50%; text-align: center; vertical-align: middle;">
             <img src="https://github-readme-streak-stats.herokuapp.com?user=Golam-Rabby821&theme=dark&hide_border=true" 
                  alt="GitHub Streak Stats" 
                  style="height: 100%; width: 100%; object-fit: cover;" />
@@ -101,22 +101,22 @@ Here are some ideas to get you started:
 </table>
 <table align="center" width="100%">
     <tr>
-        <td style="height: 150px; width: 25%; text-align: center; vertical-align: middle;">
+        <td style="height: 450px; width: 25%; text-align: center; vertical-align: middle;">
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=golam-rabby821&theme=github_dark" 
                  alt="GitHub Stats" 
                  style="height: 100%; width: 100%; object-fit: cover;" />
         </td>
-        <td style="height: 150px; width: 25%; text-align: center; vertical-align: middle;">
+        <td style="height: 450px; width: 25%; text-align: center; vertical-align: middle;">
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=golam-rabby821&theme=github_dark&utcOffset=10" 
                  alt="Productive Time" 
                  style="height: 100%; width: 100%; object-fit: cover;" />
         </td>
-        <td style="height: 150px; width: 25%; text-align: center; vertical-align: middle;">
+        <td style="height: 450px; width: 25%; text-align: center; vertical-align: middle;">
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=golam-rabby821&theme=github_dark" 
                  alt="Repos per Language" 
                  style="height: 100%; width: 100%; object-fit: cover;" />
         </td>
-        <td style="height: 150px; width: 25%; text-align: center; vertical-align: middle;">
+        <td style="height: 450px; width: 25%; text-align: center; vertical-align: middle;">
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=golam-rabby821&theme=github_dark" 
                  alt="Most Commit Language" 
                  style="height: 100%; width: 100%; object-fit: cover;" />
