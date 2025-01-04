@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 <div align="center">
 <h2 align="center" class="section-heading"> 📊 GitHub Stats</h2>
 <p>Peek into my GitHub stats to see my digital journey!</p>
- <table align="center" width="100%">
+ <table align="center" width="100%" height="500px">
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=golam-rabby821&theme=github_dark" alt="GitHub Stats"/></td>   
        <td><img src="https://github-readme-streak-stats.herokuapp.com?user=Golam-Rabby821&theme=dark&hide_border=true" alt="GitHub Streak Stats" /></td>
