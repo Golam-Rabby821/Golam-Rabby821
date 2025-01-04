@@ -87,16 +87,29 @@ Here are some ideas to get you started:
 <p>Peek into my GitHub stats to see my digital journey!</p>
  <table align="center" width="100%">
     <tr>
-       <td><img style="border: none;" height="300px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=golam-rabby821&theme=github_dark" alt="GitHub Stats"/></td>   
-       <td><img style="border: none;" height="300px" src="https://github-readme-streak-stats.herokuapp.com?user=Golam-Rabby821&theme=dark&hide_border=true" alt="GitHub Streak Stats" /></td>
+       <td style="text-align: center; vertical-align: middle;">
+           <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=golam-rabby821&theme=github_dark" alt="GitHub Stats" style="width: 100%; height: auto; max-height: 200px;" />
+       </td>
+       <td style="text-align: center; vertical-align: middle;">
+           <img src="https://github-readme-streak-stats.herokuapp.com?user=Golam-Rabby821&theme=dark&hide_border=true" alt="GitHub Streak Stats" style="width: 100%; height: auto; max-height: 200px;" />
+       </td>
     </tr>
- </table>
- <table align="center" width="100%">
+</table>
+<table align="center" width="100%">
     <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=golam-rabby821&theme=github_dark" alt="GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=golam-rabby821&theme=github_dark&utcOffset=10" alt="Productive Time"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=golam-rabby821&theme=github_dark" alt="Repos per Language"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=golam-rabby821&theme=github_dark" alt="Most Commit Language"/></td>
+        <td style="text-align: center; vertical-align: middle;">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=golam-rabby821&theme=github_dark" alt="GitHub Stats" style="width: 100%; height: auto; max-height: 150px;" />
+        </td>
+        <td style="text-align: center; vertical-align: middle;">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=golam-rabby821&theme=github_dark&utcOffset=10" alt="Productive Time" style="width: 100%; height: auto; max-height: 150px;" />
+        </td>
+        <td style="text-align: center; vertical-align: middle;">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=golam-rabby821&theme=github_dark" alt="Repos per Language" style="width: 100%; height: auto; max-height: 150px;" />
+        </td>
+        <td style="text-align: center; vertical-align: middle;">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=golam-rabby821&theme=github_dark" alt="Most Commit Language" style="width: 100%; height: auto; max-height: 150px;" />
+        </td>
     </tr>
- </table>
+</table>
+
 </div>
