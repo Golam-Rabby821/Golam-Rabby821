@@ -87,8 +87,8 @@ Here are some ideas to get you started:
 <p>Peek into my GitHub stats to see my digital journey!</p>
  <table align="center" width="100%">
     <tr>
-       <td><img style="border: none;" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=golam-rabby821&theme=github_dark" alt="GitHub Stats"/></td>   
-       <td><img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=Golam-Rabby821&theme=dark&hide_border=true" alt="GitHub Streak Stats" /></td>
+       <td><img style="border: none;" height="300px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=golam-rabby821&theme=github_dark" alt="GitHub Stats"/></td>   
+       <td><img style="border: none;" height="300px" src="https://github-readme-streak-stats.herokuapp.com?user=Golam-Rabby821&theme=dark&hide_border=true" alt="GitHub Streak Stats" /></td>
     </tr>
  </table>
  <table align="center" width="100%">
