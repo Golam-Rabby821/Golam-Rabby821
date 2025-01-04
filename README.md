@@ -39,8 +39,11 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>🐍 GitHub Contributions</h2>
   <p>Here’s a glimpse of my activity. My contributions reflect dedication to constant growth and learning. Dive into my repositories to explore my projects!</p>
-  <img src="https://raw.githubusercontent.com/Golam-Rabby821/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-  <img src="https://raw.githubusercontent.com/Golam-Rabby821/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 </div>
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
