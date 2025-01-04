@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>Hi there, I'm Golam Rabby, a passionate Full Stack Developer skilled in creating dynamic, scalable, and responsive web applications. Specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js), I thrive on delivering robust solutions that provide seamless user experiences.</p>
+    <p>Hi there, I'm <strong>Golam Rabby</strong>, a passionate Full Stack Developer skilled in creating dynamic, scalable, and responsive web applications. Specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js), I thrive on delivering robust solutions that provide seamless user experiences.</p>
 </div>
 
 <div align="center">
