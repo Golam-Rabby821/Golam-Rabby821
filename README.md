@@ -69,4 +69,4 @@ Currently expanding my skills in cloud technologies and microservices architectu
 ---
 
 ### 🏆 Achievements
-![LeetCode Stats](https://leetcard.jacoblin.cool/Golam-Rabby821?theme=dark&font=ABeeZee)
+![LeetCode Stats](https://leetcard.jacoblin.cool/alter_ego60?theme=dark&font=ABeeZee)
