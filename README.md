@@ -28,11 +28,11 @@ Currently expanding my skills in cloud technologies and microservices architectu
 </div>
 
 <div align="center">
-  <a href="https://github.com/Golam-Rabby821/Project-3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Golam-Rabby821&repo=Project-3&theme=dark" />
+  <a href="https://github.com/Golam-Rabby821/Markdown-Previewer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Golam-Rabby821&repo=Markdown-Previewer&theme=dark" />
   </a>
-  <a href="https://github.com/Golam-Rabby821/Project-4">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Golam-Rabby821&repo=Project-4&theme=dark" />
+  <a href="https://github.com/Golam-Rabby821/Random-Quote-Generator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Golam-Rabby821&repo=Random-Quote-Generator&theme=dark" />
   </a>
 </div>
 
