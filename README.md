@@ -58,10 +58,10 @@ Currently expanding my skills in cloud technologies and microservices architectu
   <a href="https://www.linkedin.com/in/golamrabby-" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:golamrabby821@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/yourprofile/" target="_blank">
+  <a href="[https://leetcode.com/yourprofile/](https://leetcode.com/u/alter_ego60/)" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
