@@ -16,6 +16,30 @@ Currently expanding my skills in cloud technologies and microservices architectu
 
 ---
 
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Golam-Rabby821/Project-1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Golam-Rabby821&repo=Project-1&theme=dark" />
+  </a>
+  <a href="https://github.com/Golam-Rabby821/Project-2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Golam-Rabby821&repo=Project-2&theme=dark" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Golam-Rabby821/Project-3">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Golam-Rabby821&repo=Project-3&theme=dark" />
+  </a>
+  <a href="https://github.com/Golam-Rabby821/Project-4">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Golam-Rabby821&repo=Project-4&theme=dark" />
+  </a>
+</div>
+
+---
+
 ### 🛠️ Tech Stack
 
 #### **Frontend Development**
