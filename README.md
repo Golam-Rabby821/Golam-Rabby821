@@ -36,16 +36,6 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=Golam-Rabby821&style=for-the-badge" alt="Profile views" />
 </div>
 
-<div align="center">
-  <h2>🐍 GitHub Contributions</h2>
-  <p>Here’s a glimpse of my activity. My contributions reflect dedication to constant growth and learning. Dive into my repositories to explore my projects!</p>
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/golam-rabby821/golam-rabby821/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/golam-rabby821/golam-rabby821/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/golam-rabby821/golam-rabby821/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
-
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <p>I have expertise in the following programming languages, using them to craft efficient and creative solutions:</p>
 <div align="center">
@@ -80,23 +70,4 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
-</div>
-
-<div align="center">
-<h2 align="center" class="section-heading"> 📊 GitHub Stats</h2>
-<p>Peek into my GitHub stats to see my digital journey!</p>
-<table align="center" width="100%">
-    <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=golam-rabby821&theme=github_dark" alt="GitHub Stats"/></td>   
-       <td><img src="https://github-readme-streak-stats.herokuapp.com?user=Golam-Rabby821&theme=dark&hide_border=true" alt="GitHub Streak Stats" /></td>
-    </tr>
- </table>
- <table align="center" width="100%">
-    <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=golam-rabby821&theme=github_dark" alt="GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=golam-rabby821&theme=github_dark&utcOffset=10" alt="Productive Time"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=golam-rabby821&theme=github_dark" alt="Repos per Language"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=golam-rabby821&theme=github_dark" alt="Most Commit Language"/></td>
-    </tr>
- </table>
 </div>
