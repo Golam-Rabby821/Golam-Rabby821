@@ -6,13 +6,13 @@
 ---
 
 ### 🚀 About Me
-I'm Golam Rabby, a passionate Full Stack Developer with expertise in the MERN stack. I specialize in building:
-- 🔥 High-performance web applications
-- 🌐 Scalable backend architectures
-- 💡 Interactive user interfaces
-- 🛠️ Robust RESTful APIs
+I'm Golam Rabby, a passionate Full-Stack Developer with expertise in the MERN stack and NestJS. I specialize in building:
+- 🔥 High-performance, scalable web applications
+- 🌐 Robust backend architectures with modern frameworks
+- 💡 Interactive, responsive user interfaces
+- 🛠️ Secure and efficient RESTful APIs
 
-Currently expanding my skills in cloud technologies and microservices architecture.
+Currently expanding my skills in cloud-native development, including Docker, CI/CD pipelines, and Kubernetes.
 
 ---
 
