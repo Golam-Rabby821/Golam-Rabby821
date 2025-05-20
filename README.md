@@ -12,7 +12,51 @@ I'm Golam Rabby, a passionate Full-Stack Developer with expertise in the MERN st
 - 💡 Interactive, responsive user interfaces
 - 🛠️ Secure and efficient RESTful APIs
 
-Currently expanding my skills in cloud-native development, including Docker, CI/CD pipelines, and Kubernetes.
+---
+
+### 🌱 Currently Exploring
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="60" alt="Docker"/>
+        <br/>
+        <sub><b>Docker</b></sub>
+      </td>
+       <td align="center" width="150">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-line.svg" width="60" alt="Jenkins"/>
+        <br/>
+        <sub><b>Jenkins</b></sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="60" alt="CI/CD"/>
+        <br/>
+        <sub><b>CI/CD</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" alt="AWS"/>
+        <br/>
+        <sub><b>AWS</b></sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" width="60" alt="Kubernetes"/>
+        <br/>
+        <sub><b>Kubernetes</b></sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" width="60" alt="Terraform"/>
+        <br/>
+        <sub><b>Terraform</b></sub>
+      </td>
+      
+    </tr>
+  </table>
+
+  ![Learning Animation](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-9eba-03106668f0d0.gif)
+</div>
 
 ---
 
