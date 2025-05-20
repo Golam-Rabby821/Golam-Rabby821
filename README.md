@@ -50,7 +50,6 @@ Currently expanding my skills in cloud-native development, including Docker, CI/
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&style=for-the-badge)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&style=for-the-badge)
 
 #### **Databases**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&style=for-the-badge)
@@ -60,8 +59,8 @@ Currently expanding my skills in cloud-native development, including Docker, CI/
 #### **Tools & DevOps**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&style=for-the-badge)
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&style=for-the-badge)
+![Mocha](https://img.shields.io/badge/-Mocha-8D6748?logo=mocha&style=for-the-badge)
+![Chai](https://img.shields.io/badge/-Chai-A30701?logo=chai&style=for-the-badge)
 
 ---
 
