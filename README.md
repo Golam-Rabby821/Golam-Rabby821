@@ -18,7 +18,7 @@ I'm Golam Rabby, a passionate Full-Stack Developer with expertise in the MERN st
 
 <div align="center">
   <table>
-    <tr>
+     <tr>
       <td align="center" width="150">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="60" alt="Docker"/>
         <br/>
@@ -51,7 +51,6 @@ I'm Golam Rabby, a passionate Full-Stack Developer with expertise in the MERN st
         <br/>
         <sub><b>Terraform</b></sub>
       </td>
-      
     </tr>
   </table>
 
