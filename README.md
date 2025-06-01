@@ -18,38 +18,38 @@ I'm Golam Rabby, a passionate Full-Stack Developer with expertise in the MERN st
 
 <div align="center">
   <table>
-     <tr>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="60" alt="PostgreSQL"/>
+        <br/>
+        <sub><b>PostgreSQL</b></sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="60" alt="Django"/>
+        <br/>
+        <sub><b>Django</b></sub>
+      </td>
       <td align="center" width="150">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="60" alt="Docker"/>
         <br/>
         <sub><b>Docker</b></sub>
       </td>
-       <td align="center" width="150">
+    </tr>
+    <tr>
+      <td align="center" width="150">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-line.svg" width="60" alt="Jenkins"/>
         <br/>
         <sub><b>Jenkins</b></sub>
       </td>
-      <td align="center" width="150">
+     <td align="center" width="150">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="60" alt="CI/CD"/>
         <br/>
         <sub><b>CI/CD</b></sub>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="150">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" alt="AWS"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" alt="SQL"/>
         <br/>
-        <sub><b>AWS</b></sub>
-      </td>
-      <td align="center" width="150">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" width="60" alt="Kubernetes"/>
-        <br/>
-        <sub><b>Kubernetes</b></sub>
-      </td>
-      <td align="center" width="150">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" width="60" alt="Terraform"/>
-        <br/>
-        <sub><b>Terraform</b></sub>
+        <sub><b>SQL</b></sub>
       </td>
     </tr>
   </table>
