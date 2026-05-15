@@ -142,17 +142,6 @@ I am a **Full-Stack Software Engineer** specializing in robust backend architect
   </tr>
 </table>
 
----
-
-### 📈 Engineering Velocity & Impact
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Golam-Rabby821&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Golam-Rabby821&theme=dark&hide_border=true" width="100%" alt="GitHub Streak" />
-</p>
 
 ---
 
