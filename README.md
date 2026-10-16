@@ -5,12 +5,12 @@
   </p>
   <p align="center">
     Chattogram / Dhaka, Bangladesh [UTC+6] · 
-    <a href="https://golamrabbydev.netlify.app/">Portfolio Website</a> · 
+    <a href="https://dev.golamrabby.com/">Portfolio Website</a> · 
     <a href="https://linkedin.com/in/golam-rabby-">LinkedIn</a> · 
     <a href="mailto:golamrabby821@gmail.com">golamrabby821@gmail.com</a>
   </p>
   <p align="center">
-    <a href="https://golamrabbydev.netlify.app/"><img src="https://img.shields.io/badge/Live_Portfolio-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" /></a>
+    <a href="https://dev.golamrabby.com/"><img src="https://img.shields.io/badge/Live_Portfolio-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" /></a>
     <a href="https://linkedin.com/in/golam-rabby-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:golamrabby821@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://leetcode.com/u/alter_ego60/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
@@ -245,7 +245,7 @@ I build web and mobile applications across frontend, backend, and database layer
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://golamrabbydev.netlify.app/">
+  <a href="https://dev.golamrabby.com/">
     <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
@@ -261,3 +261,4 @@ I build web and mobile applications across frontend, backend, and database layer
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
+
